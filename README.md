@@ -1,7 +1,7 @@
-# Airia Code Configuration Guide
+# Airia Code Configuration Guide - Claude Code -> Airia AI Gateway
 
 ## Overview
-Airia Code is a gateway-powered version of Claude Code that routes requests through an organization's Airia Gateway for enhanced security, monitoring, and control.
+Airia Code is a gateway-powered version of Claude Code that routes requests through an organization's Airia AI Gateway for enhanced security, monitoring, and control.
 
 ---
 
