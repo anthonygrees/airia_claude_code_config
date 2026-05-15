@@ -1,3 +1,5 @@
+![Airia Code](/images/heading.png)
+  
 # Airia Configuration Guides — Claude Suite
 
 This repository contains setup guides for connecting the Claude Suite to the Airia Gateway.
