@@ -6,16 +6,16 @@ This repository contains setup guides for connecting the Claude Suite to the Air
 
 ## Guides
 
-### Airia Gateway Setup
+### 1. Airia Gateway Setup
 Step-by-step instructions for setting up an AI Gateway in Airia
 - [Airia Gateway Setup](docs/gateway/gateway_setup.md)
 
-### Claude Desktop (Claude CoWork / Claude Code)
+### 2a.Claude Desktop (Claude CoWork / Claude Code)
 Step-by-step instructions for connecting Claude Desktop to the Airia Gateway.
 
 - [Claude Desktop Setup](docs/claude_desktop/claude_desktop_setup.md)
 
-### Claude Code CLI
+### 2b.Claude Code CLI
 Step-by-step instructions for connecting Claude Code CLI to the Airia Gateway.
 
 - [Claude Code Setup](docs/claude_code/claude_code_setup.md)
