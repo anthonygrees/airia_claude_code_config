@@ -15,6 +15,7 @@ Step-by-step instructions for connecting Claude Code CLI to the Airia Gateway.
 - [Claude Code Setup](docs/claude_code/claude_code_setup.md)
   - [Mac/Linux](docs/claude_code/claude_code_setup.md#maclinux-configuration)
   - [Windows](docs/claude_code/claude_code_setup.md#windows-configuration)
+  - [Trouble Shooting](docs/claude_code/claude_code_setup.md#troubleshooting)
 
 
 ## Videos
