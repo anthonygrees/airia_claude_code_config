@@ -17,6 +17,11 @@ Step-by-step instructions for connecting Claude Desktop to the Airia Gateway.
 - [Claude Desktop Setup](docs/claude_desktop/claude_desktop_setup.md)
 - [MCP Server Setup](docs/claude_desktop/mcp_server_setup.md)
 
+### Claude Excel Add-In
+Step-by-step instructions for connecting the Claude Excel Add-In to the Airia Gateway.
+
+- [Claude Excel Setup](docs/claude_add_ins/claude_excel_setup.md)
+
 ### Claude Code CLI
 Step-by-step instructions for connecting Claude Code CLI to the Airia Gateway.
 
