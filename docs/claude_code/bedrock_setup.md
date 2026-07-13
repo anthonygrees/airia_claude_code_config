@@ -54,3 +54,20 @@ Replace `<your-gateway-api-key>` with your Airia Gateway API key (`agk-...`).
 - **`ANTHROPIC_API_KEY`** is your gateway credential, sent as `x-api-key`.
 - Bedrock inference profiles require a regional prefix on all model IDs (e.g. au., apac., global.) as bare model IDs won't work.
 - All pinned models must be enabled in both your **Airia Gateway provider allow-list** and your **AWS Bedrock Marketplace** account.
+
+## 5. What You Get in Airia
+
+Once Claude Code is routing through the Airia gateway, every request is captured in **Audit > Analytics > Gateway Monitoring**. This gives you a full log of Claude Code activity across your team, including:
+
+- **Path** - the exact Bedrock model endpoint called
+- **Model Provider** - confirms traffic is routing through Bedrock
+- **Model Name** - the specific model used for each request
+- **User** - who made the request
+- **Status Code** - whether the request succeeded or failed
+- **Request and Response payloads** - the full prompt and completion for each call
+
+![Gateway Monitoring overview](/images/bedrock_gateway_monitoring.png)
+
+Click any row to open the call detail view, where you can inspect the request and response bodies, timeline, costs, and headers.
+
+![Gateway Monitoring call details](/images/bedrock_gateway_monitoring_detail.png)
