@@ -35,6 +35,39 @@ Step-by-step instructions for connecting Claude Code CLI to the Airia Gateway.
 If you want Claude Code to use your own Claude subscription (and your own tokens) rather than Airia's, you need to update your configuration as follows.
 - [Claude Subscription LLMs](docs/claude_code/claude_subscription_llm.md)
 
+## Helpful Claude Scripts
+
+### CLI
+
+**Version**
+```bash
+claude --version
+```
+
+**Location**
+```bash
+which claude
+```
+
+### Config Files
+
+**Claude Code settings**
+```bash
+cat ~/.claude/settings.json
+```
+
+**MCP servers** (look under the `mcpServers` key — this is a large file)
+```bash
+cat ~/.claude.json
+```
+
+### Cowork MCP
+
+**View MCP servers configured for Claude CoWork**
+```bash
+cat ~/Library/Application\ Support/Claude-3p/claude_desktop_config.json
+```
+
 ## Videos
 The following video shows the code in action.
 
