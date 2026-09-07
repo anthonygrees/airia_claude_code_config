@@ -23,7 +23,7 @@ Two credentials are therefore in play — they must not be confused:
 
 - Claude Desktop, recent version *(third-party inference UI is behind Developer Mode)*
 - Claude Code CLI installed and logged in (`/login`) with the plan account *(Pro/Max/Team/Enterprise subscription auth — not an API key)*
-- Airia AI Gateway configuration created with **AI Service Authentication = Use )Auth Passthrough**
+- Airia AI Gateway configuration created with **AI Service Authentication = Use OAuth Passthrough**
   `Secure → Gateway → AI Gateway → Create New Configuration`
 - The Airia gateway key (`x-airia-key` value) for that configuration
 - The Airia gateway config's **Allowed Models** list must include the models you intend to use, plus `claude-haiku-4-5` *(Claude Desktop uses Haiku for background tasks such as thread naming)*. An empty list allows all models.
