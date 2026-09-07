@@ -71,7 +71,7 @@ This is a long-lived (~1 year) subscription-scoped token.
 | Credential kind | `Static API key` |
 | Gateway API key | The `sk-ant-oat01-...` token from Part 1 |
 | Gateway auth scheme | `bearer` *(required — plan tokens travel as `Authorization: Bearer`, not `x-api-key`)* |
-| Custom inference header | `x-airia-key` = the Airia-issued gateway key *(⚠️ not the Anthropic token — see failure modes below)* |
+| Custom inference header | `x-airia-key` = the Airia-issued gateway key *(⚠️ not the Anthropic token)* |
 
 **5.** Under **Models**, add your primary models (e.g. `claude-sonnet-4-6`, an Opus model) and `claude-haiku-4-5`. These must match the Airia config's Allowed Models list.
 
