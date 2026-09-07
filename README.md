@@ -34,8 +34,10 @@ Step-by-step instructions for connecting Claude Code CLI to the Airia Gateway.
 - [Bedrock Setup](docs/claude_code/bedrock_setup.md)
 
 
+### Claude Teams / Enterprise
 If you want Claude Code to use your own Claude subscription (and your own tokens) rather than Airia's, you need to update your configuration as follows.
-- [Claude Subscription LLMs](docs/claude_code/claude_subscription_llm.md)
+- [Claude CLI - Subscription](docs/claude_code/claude_subscription_llm.md)
+- [Claude Desktop - Subscription](docs/claude_code/claude_subscription_desktop.md)
 
 ## Helpful Claude Scripts
 
