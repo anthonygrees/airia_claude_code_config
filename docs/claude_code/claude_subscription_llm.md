@@ -15,7 +15,8 @@ Choose **one** of the two methods below.
 
 Edit the Claude settings file on your machine:
 
-**File:** `~/.claude/settings.json`
+**Mac File:** `~/.claude/settings.json`
+**Win File:** `%USERPROFILE%\.claude\settings.json`
 
 ```json
 {
