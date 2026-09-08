@@ -34,7 +34,7 @@ Edit the Claude settings file on your machine:
 Add the following to your `~/.zshrc` or `~/.bashrc`:
 
 ```bash
-export ANTHROPIC_BASE_URL="https://<airia-gateway-url>"
+export ANTHROPIC_BASE_URL="https://prodaus.gateway.airia.ai"
 export ANTHROPIC_CUSTOM_HEADERS="x-airia-key: <KEY_FROM_AIRIA_GATEWAY>"
 ```
 
