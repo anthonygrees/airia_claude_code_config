@@ -21,7 +21,7 @@ Edit the Claude settings file on your machine:
 ```json
 {
   "env": {
-    "ANTHROPIC_BASE_URL": "https://<airia-gateway-url>",
+    "ANTHROPIC_BASE_URL": "https://prodaus.gateway.airia.ai",
     "ANTHROPIC_CUSTOM_HEADERS": "x-airia-key: <KEY_FROM_AIRIA_GATEWAY>"
   }
 }
