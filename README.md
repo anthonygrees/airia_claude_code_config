@@ -76,3 +76,6 @@ cat ~/Library/Application\ Support/Claude-3p/claude_desktop_config.json
 The following video shows the code in action.
 
 [![Alt text](https://img.youtube.com/vi/sEd_7Bz_VKs/0.jpg)](https://youtu.be/sEd_7Bz_VKs)
+  
+## ChatGPT Config
+[The config for ChatGPT is here](https://github.com/alyssagiuliano/airia_chatgpt_config)
