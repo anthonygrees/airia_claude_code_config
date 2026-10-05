@@ -78,4 +78,6 @@ The following video shows the code in action.
 [![Alt text](https://img.youtube.com/vi/sEd_7Bz_VKs/0.jpg)](https://youtu.be/sEd_7Bz_VKs)
   
 ## ChatGPT Config
+
+ChatGPT - Work & Codex.  
 [The config for ChatGPT is here](https://github.com/alyssagiuliano/airia_chatgpt_config)
