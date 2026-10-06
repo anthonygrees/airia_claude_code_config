@@ -39,6 +39,13 @@ If you want Claude Code to use your own Claude subscription (and your own tokens
 - [Claude CLI - Subscription](docs/claude_code/claude_subscription_llm.md)
 - [Claude Desktop - Subscription](docs/claude_code/claude_subscription_desktop.md)
 
+### Spend Attribution
+Step-by-step instructions for attributing Claude Enterprise and Claude Team spend to people, departments and cost centres in Airia.
+- [Spend Attribution Setup](docs/spend_attribution/spend_attribution_setup.md)
+  - [Claude Enterprise](docs/spend_attribution/spend_attribution_setup.md#2-set-up-claude-enterprise)
+  - [Claude Team](docs/spend_attribution/spend_attribution_setup.md#3-set-up-claude-team)
+  - [Reports and Insights](docs/spend_attribution/spend_attribution_setup.md#4-reports-and-insights)
+
 ## Helpful Claude Scripts
 
 ### CLI
